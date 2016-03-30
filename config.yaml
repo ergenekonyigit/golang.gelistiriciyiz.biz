@@ -1,0 +1,22 @@
+site:
+  production_url: "http://golang.gelistiriciyiz.biz"
+  title: "Golang Püf Noktaları"
+  subtitle: "Golang ile ilgili Türkçe püf noktaları"
+  tag_line: "Gündelik Hayatta Golang"
+  description: "Golang ile ilgili Türkçe püf noktaları"
+  logo: "logo.png"
+  cover_image: "cover.png"
+  social:
+    twitter: "golang_tips_tr"
+    # facebook: ""
+  company:
+    name: "Geliştiriciyiz.biz"
+    url: "http://gelistiriciyiz.biz/"
+  product:
+    name: "GELİŞTİRİCİYİZ.BİZ"
+    url: "http://gelistiriciyiz.biz/"
+  main_author:
+    name: "Full Name"
+    email: "email@example.com"
+    link: "http://example.com"
+    bio: "Title"
