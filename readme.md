@@ -166,6 +166,9 @@ post’lar için.
 * Deployment açıklandı.
 * `config.yaml` açıklandı.
 
+## Lisans
+
+Bu proje MIT lisansıyla lisanslanmıştır.
 
 ## Katkı Yapın
 
@@ -174,6 +177,7 @@ post’lar için.
 3. Yaptıklarınızı `commit` edin (`git commit -am 'Yeni makale'`)
 4. `branch`’i `push` edin (`git push origin benim-makalem`)
 5. Yeni bir **Pull Request** oluşturun!
+
 
 
 [1]: http://golang.gelistiriciyiz.biz
