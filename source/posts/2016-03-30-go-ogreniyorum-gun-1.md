@@ -180,7 +180,7 @@ olan tip var: `uint`, `int` ve `uintptr`.
 
 Eğer normal sayılarla çalışacaksanız `int` kullanabilirsiniz :)
 
-#### Floating-Point Numbers
+#### Floating-Point Numbers (Kayan Noktalı Sayılar)
 
 En kolay ifadeyle ondalık sayılar: `1.5`, `0.25`, `3.14`. Virgül yerine **Nokta**
 kullanıyoruz. Bu tür sayılarla çalışırken şunları unutmayın:
@@ -247,9 +247,9 @@ Sonuç : `1 + 1 = 2` aynı... Matematik işlemlerinde;
 * `/` : Bölme
 * `%` : Kalan (*Modulo*)
 
-### Strings
+### Strings (Katarlar)
 
-Türkçesini bulamadım, harfsel, harf dizileri, karater dizesi gibi düşünebiliriz.
+Harfsel, harf dizileri, karater dizesi gibi düşünebiliriz.
 Çift tırnak ve **backtick** içinde kullanılabilir:
 
     "Hello World" # Çift tırnak (Double Quotes)
